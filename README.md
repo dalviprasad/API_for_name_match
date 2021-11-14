@@ -15,5 +15,5 @@ Technology: Python
 Project Description: Given two strings, this API calculates the similarity score between these two strings. The similarity score is calculated using Levenshtein distance and is a value between 0 to 100. Two strings having a value close to 100 tells us that the string are similar where as values close to 0 tell us that the string are dissimilar.
 
 Files:
-match_results_api: Code to create an API to calculate the similarity score between two strings
-test_name_match_API: Code to test the API
+1. match_results_api: Code to create an API to calculate the similarity score between two strings
+2. test_name_match_API: Code to test the API
