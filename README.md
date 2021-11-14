@@ -9,6 +9,7 @@ Method used
 1. Data Cleaning
 2. Calculate similarity score using FuzzyWuzzy (Package to calculate the Levenshtein distance)
 3. Create an API using Flask
+
 Technology: Python
 
 Project Description: Given two strings, this API calculates the similarity score between these two strings. The similarity score is calculated using Levenshtein distance and is a value between 0 to 100. Two strings having a value close to 100 tells us that the string are similar where as values close to 0 tell us that the string are dissimilar.
